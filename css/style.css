@@ -87,6 +87,7 @@
 	border-radius: 10px;
 	padding: 20px;
 	width: 100%;
+	max-width: 472px;
 	min-height: 180px;
 	max-height: 400px;
 }
